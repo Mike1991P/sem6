@@ -1,0 +1,4 @@
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache

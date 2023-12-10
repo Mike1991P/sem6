@@ -1,0 +1,14 @@
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\bin\Debug\net7.0\3.exe
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\bin\Debug\net7.0\3.deps.json
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\bin\Debug\net7.0\3.runtimeconfig.json
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\bin\Debug\net7.0\3.dll
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\bin\Debug\net7.0\3.pdb
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.AssemblyInfoInputs.cache
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.AssemblyInfo.cs
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.csproj.CoreCompileInputs.cache
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.dll
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\refint\3.dll
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.pdb
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\3.genruntimeconfig.cache
+C:\Users\Rogue\Documents\учеба\c#\HomeWork\seminar6massiveandstring\3\obj\Debug\net7.0\ref\3.dll
